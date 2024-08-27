@@ -10,4 +10,3 @@
 Brayansito2010/Brayansito2010 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-but i go to the run in the park is beatiful
